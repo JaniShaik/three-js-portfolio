@@ -18,7 +18,7 @@ const Footer = () => {
                     <img src="/assets/instagram.svg" alt="instagram" className="w-1/2 h-1/2"/>
                 </div>
             </div>
-            <p className="text-white-500">2025 Jani. All rights reserved.</p>
+            <p className="text-white-500">&copy;2025 Jani Shaik. All rights reserved.</p>
         </section>
     )
 }
